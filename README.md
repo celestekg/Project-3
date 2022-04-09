@@ -1,6 +1,6 @@
 # Project-3: This program calculates the fare for a parking lot. The time entered and exited is entered by the user, and the program calculates the appropriate payment due. The program also accounts for circumstances such as a lost ticket or a parking pass. The program then prints out a reciept listing the times entered and exited, and the fare due.
 
-![image](https://user-images.githubusercontent.com/56613527/162595335-a66a6f86-6448-4af1-9e43-caf0050f2a86.png)
+![image](https://user-images.githubusercontent.com/56613527/162595506-9e2cc8e5-87a8-4b04-b533-be454e423f9b.png)
 
 #include <iostream>
 #include <iomanip>
